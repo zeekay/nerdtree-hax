@@ -1,1 +1,7 @@
-Slightly quieter NERDTree (modified C/u mappings to only output new root).
+A slightly quieter NERDTree.
+
+## Changes
+* C/u mappings only output `pwd`
+* NERDTreeQuietToggle
+    * Only outputs `pwd`
+    * Changes directory to parent directory of file it is called from.
